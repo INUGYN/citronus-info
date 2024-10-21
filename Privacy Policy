@@ -1,23 +1,40 @@
-Privacy Policy:
+Politique de Confidentialité pour Citronus
+Merci d'utiliser Citronus. Nous nous engageons à protéger votre vie privée et à garantir la sécurité de vos données. Cette politique de confidentialité explique quelles informations nous collectons, comment nous les utilisons et quels sont vos droits concernant vos données personnelles.
 
-Thank you for choosing Ihorizon, our Discord bot. We value your privacy and are committed to protecting your personal information. This privacy policy explains how we collect, use, and safeguard your data when you interact with Ihorizon. By using Ihorizon, you consent to the practices outlined in this policy.
+1. Informations que nous collectons
+Lorsque vous utilisez Citronus, nous pouvons collecter les informations suivantes :
 
-Information Collection: We do not collect any personal information from users of Ihorizon. We do not request or store any identifying details, such as names, addresses, email addresses, or phone numbers. We designed Ihorizon to function without the need for personal information.
+Identifiants des utilisateurs et des serveurs : Nous collectons ces informations pour fournir des fonctionnalités personnalisées et spécifiques aux serveurs, telles que les commandes, le classement et les paramètres de configuration.
+Données des messages : Citronus peut stocker temporairement les données des messages lors de l’utilisation de commandes spécifiques pour assurer le bon fonctionnement des fonctionnalités.
+Préférences de configuration : Pour chaque commande de configuration, nous enregistrons les préférences afin d'assurer le bon fonctionnement du bot. Ces données ne sont transmises à personne et ne sont lues par personne.
+2. Informations collectées pour la version Premium
+Pour les utilisateurs de la version premium de Citronus, nous collectons uniquement l'ID de l'utilisateur et/ou l'ID du serveur afin de gérer les abonnements et les fonctionnalités premium. Nous ne collectons aucune information bancaire ou financière.
 
-Message Storage: Ihorizon does not store or retain any messages sent through Discord. We do not have access to the content of your messages, including text, images, attachments, or any other media. Your conversations remain private and are not stored or logged by Ihorizon.
+3. Comment nous utilisons les informations
+Nous utilisons les informations collectées aux fins suivantes :
 
-Voice Data: Ihorizon does not collect or store any voice data from voice channels. We do not record or access any audio content from your voice communications. Your voice conversations on Discord are not captured or stored by Ihorizon.
+Fournir, exploiter et maintenir les fonctionnalités et services de Citronus.
+Personnaliser votre expérience et offrir des configurations spécifiques aux serveurs.
+Stocker les données d'abonnement premium et gérer les préférences des utilisateurs liées aux fonctionnalités premium.
+Assurer le bon fonctionnement des fonctionnalités de configuration en sauvegardant les préférences des utilisateurs.
+Améliorer la sécurité et surveiller les activités suspectes.
+4. Stockage et sécurité des données
+Toutes les données collectées sont stockées de manière sécurisée et ne sont accessibles qu’au personnel autorisé. Nous utilisons des mesures appropriées pour protéger vos données contre tout accès non autorisé, perte ou utilisation abusive.
 
-Command Logging: Ihorizon may log and store the usage of slash commands for debugging and troubleshooting purposes. These logs only include command metadata, such as command type and timestamp. We do not log or store any personally identifiable information or message content.
+5. Partage de données avec des tiers
+Nous ne partageons ni ne vendons vos données personnelles à des tiers. Les données collectées par Citronus sont uniquement utilisées pour fournir et améliorer nos services. Cependant, en cas de nécessité légale, nous pouvons divulguer des données pour respecter les obligations légales ou coopérer avec les autorités.
 
-Third-Party Services: Ihorizon may integrate with third-party services or APIs to provide additional features. Please note that these services may have their own privacy policies and terms of use. We recommend reviewing their policies before using such services, as Ihorizon's privacy policy does not cover the practices of third-party providers.
+6. Droits des utilisateurs
+Vous avez les droits suivants concernant vos données :
 
-Data Security: We take appropriate measures to ensure the security of your data. We use industry-standard security protocols to protect Ihorizon and your information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.
+Accès et correction : Vous pouvez demander l'accès aux données collectées par Citronus et demander des corrections si des données sont inexactes.
+Suppression : Vous pouvez demander la suppression de vos données, mais veuillez noter que cela peut affecter votre capacité à utiliser certaines fonctionnalités de Citronus.
+Désactivation : Vous pouvez refuser toute collecte de données qui n'est pas essentielle au fonctionnement du bot.
+7. Clause de Limitation de Responsabilité
+En utilisant la version premium de Citronus, vous acceptez de ne pas engager de poursuites légales contre les agences ou les personnes liées à Citronus, y compris, mais sans s'y limiter, les développeurs, les administrateurs ou les partenaires de Citronus. L'utilisation du service premium est à vos risques et périls.
 
-Compliance with Laws: Ihorizon complies with all applicable laws and regulations regarding data privacy and protection. In the event of a lawful request or legal obligation, we may disclose your information to comply with such requirements.
+8. Contactez-nous
+Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité ou la manière dont vos données sont traitées, vous pouvez nous contacter via notre serveur Discord officiel : https://discord.gg/9RdU6MYeMs
 
-Changes to the Privacy Policy: We reserve the right to update or modify this privacy policy at any time. If we make any material changes, we will notify users by posting an updated version on our website or through other appropriate means. Continued use of Ihorizon after any changes signifies your acceptance of the updated policy.
-
-If you have any questions or concerns about our privacy practices or would like to request the deletion of any information associated with Ihorizon, please contact us using the provided communication channels.
-
-By using Ihorizon, you acknowledge that you have read, understood, and agree to the terms of this privacy policy.
+9. Modifications de cette politique de confidentialité
+Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Toute modification sera communiquée via notre serveur Discord officiel ou d'autres canaux appropriés. En continuant à utiliser Citronus après les modifications, vous acceptez la politique révisée.
